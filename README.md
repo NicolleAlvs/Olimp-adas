@@ -1,6 +1,6 @@
 ## **README.md Descontraído para o Seu Projeto**
 
-### **Descubra os Heróis do Esporte!** 
+### **Descubra os Heróis do Esporte - Imersão Dev com Google Gemini** 
 
 **O que é esse projeto?**
 
